@@ -1,5 +1,4 @@
 #Team Members
 
 *Trenton Radicia
-*TODO:
-
+*Lena Simon
